@@ -3,7 +3,7 @@ import turtle
 a = 5
 print(a)
 
-b = "Ayo sweetone, chat to me real quick!"
+b = "Hello!"
 print(b)
 
 shayk_turtle = turtle.Turtle()
