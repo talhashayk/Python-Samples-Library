@@ -1,8 +1,8 @@
 import turtle
 
 shayk_turtle = turtle.Turtle()
-t = "gassed"
+t = "good"
 
 
-while t == "gassed":
+while t == "good":
     shayk_turtle.forward(1)
